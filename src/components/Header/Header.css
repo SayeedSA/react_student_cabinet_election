@@ -1,0 +1,19 @@
+
+.header-title{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.header-container{
+    text-align: center;
+    background-color: #89ce1b;
+    color: #000;
+    height: 100px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    margin: 5px;
+}
